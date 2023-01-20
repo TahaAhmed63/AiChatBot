@@ -130,7 +130,7 @@
              window.dotsGoingUp = false;
          }, 250);
 
-   fetch('http://localhost:3002/message', {
+   fetch('http://localhost:3003/message', {
      method: 'POST',
      headers: {
        accept: 'application.json',
